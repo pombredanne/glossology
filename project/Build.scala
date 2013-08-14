@@ -10,7 +10,7 @@ object General {
     versionCode := 0,
     scalaVersion := "2.9.2",
     platformName in Android := "android-15",
-    javacOptions ++= Seq("-encoding", "UTF-8", "-source", "1.7", "-target", "1.7")
+    javacOptions ++= Seq("-encoding", "UTF-8", "-source", "1.6", "-target", "1.6")
   )
 
   val proguardSettings = Seq (
