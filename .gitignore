@@ -1,0 +1,9 @@
+*.class
+*.dex
+*~
+
+src/test/
+target/
+tests/
+
+
