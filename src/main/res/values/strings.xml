@@ -4,5 +4,7 @@
     <string name="hello_lucy">Hello Lucy!</string>
     <string name="menu_settings">Settings</string>
     <string name="button_i_want">I want</string>
+    <string name="button_to_watch">to watch</string>
+    <string name="button_Olivia">Olivia</string>
 </resources>
 
