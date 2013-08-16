@@ -9,6 +9,6 @@ class MainActivity extends Activity with TypedActivity {
     super.onCreate(bundle)
     setContentView(R.layout.main)
 
-    findView(TR.textview).setText("Hello Lucy!")
+   // findView(TR.textview).setText("Hello Lucy!")
   }
 }

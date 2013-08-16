@@ -3,5 +3,6 @@
     <string name="app_name">Glossology</string>
     <string name="hello_lucy">Hello Lucy!</string>
     <string name="menu_settings">Settings</string>
+    <string name="button_i_want">I want</string>
 </resources>
 
